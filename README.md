@@ -1,4 +1,4 @@
-# Bootstrapping
+# Bootstrapping - Discrete-Event Simulation 
 Bootstrapping is any test or metric that uses random sampling with replacement, and falls under the broader class of resampling methods(wiki)
 
 Air Secure wishes to open a number of new service desks, guaranteeing that in the long run 90% of their customers do not have to wait longer than 8 minutes in a waiting queue before they are served. Preliminary research by Air Secure showed that on arrival customers always choose the smallest queue and remain there until served. This research also investigated the passengers inter-arrival time (in minutes) and the service time. The results are summarized in data.csv. The data for the first four passengers is provided
